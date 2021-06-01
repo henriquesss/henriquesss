@@ -3,8 +3,8 @@
 I'm fullStack developer and a enthusiastic about digital businesses around the world!
 
 - 🔭 I’m currently working with <strong>Node</strong>, <strong>React</strong> and <strong>Mongodb</strong> on professional projects
-- 🌱 I’m currently learning <strong>Next.js</strong>, <strong>Servless ecossystem</strong> and <strong>Data Science</strong>
+- 🌱 I’m currently learning <strong>Next.js</strong>, <strong>Servless ecossystem</strong> and <strong>TypeScript</strong>
 - 👯 I’m looking to collaborate on Financial market projects
 - 📫 How to reach me: henriques.pessoal@gmail.com
-- ⚡ Fun fact: I'm the king of brazilian "Trocadilhos".
+- ⚡ Fun fact: I have a public API only with jokes/puns at https://trocadil.io
 
