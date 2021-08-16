@@ -7,4 +7,5 @@ I'm fullStack developer and a enthusiastic about digital businesses around the w
 - 👯 I want to start collaborating on open-source projects
 - 📫 How to reach me: henriques.pessoal@gmail.com
 - ⚡ Fun fact: I have a public API only with jokes/puns at https://trocadil.io
+- ⚡ New Project: An initiative to help map people's feelings at https://comovai.vc
 
